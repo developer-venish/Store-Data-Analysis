@@ -9,8 +9,13 @@ Problem Statement: Analyze the sale data and understand future predictions
 
 
 The below Steps are followed during this:
+
 Data Cleaning
+
 Data Processing
+
 data Analysis
+
 dashboard
+
 insights
