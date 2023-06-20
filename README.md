@@ -14,8 +14,8 @@ Data Cleaning
 
 Data Processing
 
-data Analysis
+Data Analysis
 
-dashboard
+Dashboard
 
-insights
+Insights
